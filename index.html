@@ -1,0 +1,31 @@
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <script src="//unpkg.com/alpinejs" defer></script>
+    <script src="https://unpkg.com/htmx.org@2.0.2"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Example Page</title>
+    <link rel="stylesheet" href="/public/globals.css" />
+</head>
+
+<body>
+    <div x-show="open" x-effect="if (open) setTimeout(function() {open = false}, 2000)" :class = "
+      if (status === 'success') {
+          'my-2 p-2 text-sm bg-green-400 border-green-600 border-2 rounded-md text-white'
+      } else if (status === 'error') {
+          'my-2 p-2 text-sm bg-red-400 border-red-600 border-2 rounded-md text-white'
+      } else {
+          ''
+      }
+">
+        test3
+    </div>
+    <div x-data="{ count: 0 }">
+        <button x-on:click="count++">Increment</button>
+
+        <span x-text="count"></span>
+    </div>
+</body>
+
+</html>

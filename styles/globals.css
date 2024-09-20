@@ -1,0 +1,31 @@
+@tailwind base;
+
+/* Example CSS file */
+body {
+    background-color: white;  /* Set background */
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 24px;
+    color: black; /* Main heading */
+}
+
+p {
+    font-family: Arial, sans-serif;
+    line-height: 1.5; /* Paragraph spacing */
+    margin-bottom: 10px;
+}
+
+/* Comment that should be removed */
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+.foo {
+    background-color: red;
+    color: white;
+}
+

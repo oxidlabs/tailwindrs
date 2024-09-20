@@ -1,0 +1,37 @@
+commands:
+  hidden:
+    value: "display: none;"
+  flex:
+    wrap:
+      value: "flex-wrap: wrap;"
+      reverse:
+        value: "flex-wrap: wrap-reverse;"
+    nowrap:
+      value: "flex-wrap: nowrap;"
+    row:
+      value: "flex-direction: row;"
+      reverse:
+        value: "flex-direction: row-reverse;" 
+    col:
+      value: "flex-direction: column;"
+      reverse:
+        value: "flex-direction: column-reverse;"
+    none:
+      value: "flex: none;"
+    initial:
+      value: "flex: 0 1 auto;"
+    auto:
+      value: "flex: 1 1 auto;"
+    grow:
+      value: "flex-grow: 1;"
+      0:
+        value: "flex-grow: 0;"
+    shrink:
+      value: "flex-shrink: 1;"
+      0:
+        value: "flex-shrink: 0;"
+    1:
+      value: "flex: 1 1 0%;"
+    value: "display: flex;"
+
+    
