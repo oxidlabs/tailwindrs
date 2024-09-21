@@ -1,0 +1,102 @@
+{
+    "basis": {
+        "size": "flex-basis: xxx;\n",
+        "color": "",
+        "position": ""
+    },
+    "col": {
+        "size": "",
+        "color": "",
+        "position": "grid-column-end: xxx;\n"
+    },
+    "col-span": {
+        "size": "",
+        "color": "",
+        "position": "grid-column: xxx;\n"
+    },
+    "col-start": {
+        "size": "",
+        "color": "",
+        "position": "grid-column-start: xxx;\n"
+    },
+    "col-end": {
+        "size": "",
+        "color": "",
+        "position": "grid-column-end: xxx;\n"
+    },
+    "flex": {
+        "size": "flex: xxx;\n",
+        "color": "",
+        "position": "flex: xxx;\n"
+    },
+    "grow": {
+        "size": "",
+        "color": "",
+        "position": "flex-grow: xxx;\n"
+    },
+    "grid-rows": {
+        "size": "grid-template-rows: xxx;\n",
+        "color": "",
+        "position": ""
+    },
+    "grid": {
+        "size": "grid-template-columns: xxx;\n",
+        "color": "",
+        "position": ""
+    },
+    "shrink": {
+        "size": "",
+        "color": "",
+        "position": "flex-shrink: xxx;\n"
+    },
+    "order": {
+        "size": "",
+        "color": "",
+        "position": "order: xxx;\n"
+    },
+    "gap": {
+        "size": "gap: xxx; /* 384px */\n",
+        "color": "",
+        "position": ""
+    },
+    "gap-x": {
+        "size": "column-gap: xxx; /* 384px */\n",
+        "color": "",
+        "position": ""
+    },
+    "gap-y": {
+        "size": "row-gap: xxx; /* 384px */\n",
+        "color": "",
+        "position": ""
+    },
+    "auto": {
+        "size": "",
+        "color": "",
+        "position": "grid-auto-rows: xxx;\n"
+    },
+    "grid-cols": {
+        "size": "grid-template-columns: xxx;\n",
+        "color": "",
+        "position": ""
+    },
+    "row": {
+        "size": "",
+        "color": "",
+        "position": "grid-row: xxx;\n"
+    },
+    "row-span": {
+        "size": "",
+        "color": "",
+        "position": "grid-row: xxx;\n"
+    },
+    "row-start": {
+        "size": "",
+        "color": "",
+        "position": "grid-row-start: xxx;\n"
+    },
+    "row-end": {
+        "size": "",
+        "color": "",
+        "position": "grid-row-end: xxx;\n"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "text": {
+        "size": "font-size: xxx; /* 128px */\nline-height: 1;\n",
+        "color": "color: xxx;\n",
+        "position": ""
+    },
+    "list": {
+        "size": "",
+        "color": "",
+        "position": "list-style-type: xxx;\n"
+    },
+    "font": {
+        "size": "font-family: xxx;\n",
+        "color": "",
+        "position": "font-weight: xxx;\n"
+    },
+    "leading": {
+        "size": "line-height: xxx; /* 40px */\n",
+        "color": "",
+        "position": "line-height: xxx;\n"
+    },
+    "line-clamp": {
+        "size": "",
+        "color": "",
+        "position": "overflow: hidden;\ndisplay: -webkit-box;\n-webkit-box-orient: vertical;\n-webkit-line-clamp: xxx;\n"
+    },
+    "tracking": {
+        "size": "letter-spacing: xxx;\n",
+        "color": "",
+        "position": ""
+    },
+    "indent": {
+        "size": "text-indent: xxx; /* 384px */\n",
+        "color": "",
+        "position": ""
+    },
+    "align": {
+        "size": "",
+        "color": "",
+        "position": "vertical-align: xxx;\n"
+    },
+    "content": {
+        "size": "",
+        "color": "",
+        "position": "content: xxx;\n"
+    },
+    "decoration": {
+        "size": "text-decoration-thickness: xxx;\n",
+        "color": "text-decoration-color: xxx;\n",
+        "position": "text-decoration-thickness: xxx;\n"
+    },
+    "underline-offset": {
+        "size": "text-underline-offset: xxx;\n",
+        "color": "",
+        "position": ""
+    }
+}

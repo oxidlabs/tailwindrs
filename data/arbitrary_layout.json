@@ -1,0 +1,67 @@
+{
+    "aspect": {
+        "size": "",
+        "color": "",
+        "position": "aspect-ratio: xxx;\n"
+    },
+    "columns": {
+        "size": "columns: xxx;\n",
+        "color": "",
+        "position": ""
+    },
+    "z": {
+        "size": "",
+        "color": "",
+        "position": "z-index: xxx;\n"
+    },
+    "object": {
+        "size": "",
+        "color": "",
+        "position": "object-position: xxx;\n"
+    },
+    "inset": {
+        "size": "inset: xxx;\n",
+        "color": "",
+        "position": ""
+    },
+    "inset-x": {
+        "size": "left: xxx; \nright: xxx;\n",
+        "color": "",
+        "position": ""
+    },
+    "inset-y": {
+        "size": "top: xxx; \nbottom: xxx; \n",
+        "color": "",
+        "position": ""
+    },
+    "start": {
+        "size": "inset-inline-start: xxx;\n",
+        "color": "",
+        "position": ""
+    },
+    "end": {
+        "size": "inset-inline-end: xxx;\n",
+        "color": "",
+        "position": ""
+    },
+    "top": {
+        "size": "top: xxx;\n",
+        "color": "",
+        "position": "top: xxx;\n"
+    },
+    "right": {
+        "size": "right: xxx;\n",
+        "color": "",
+        "position": "right: xxx;\n"
+    },
+    "bottom": {
+        "size": "bottom: xxx;\n",
+        "color": "",
+        "position": "bottom: xxx;\n"
+    },
+    "left": {
+        "size": "left: xxx;\n",
+        "color": "",
+        "position": "left: xxx;\n"
+    }
+}

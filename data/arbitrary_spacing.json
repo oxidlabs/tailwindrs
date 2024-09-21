@@ -1,0 +1,92 @@
+{
+    "m": {
+        "size": "margin: xxx; /* 384px */\n",
+        "color": "",
+        "position": "margin: xxx;\n"
+    },
+    "mx": {
+        "size": "margin-left: xxx; /* 384px */\nmargin-right: xxx; /* 384px */\n",
+        "color": "",
+        "position": "margin-left: xxx;\nmargin-right: xxx;\n"
+    },
+    "my": {
+        "size": "margin-top: xxx; /* 384px */\nmargin-bottom: xxx; /* 384px */\n",
+        "color": "",
+        "position": "margin-top: xxx;\nmargin-bottom: xxx;\n"
+    },
+    "ms": {
+        "size": "margin-inline-start: xxx; /* 384px */\n",
+        "color": "",
+        "position": "margin-inline-start: xxx;\n"
+    },
+    "me": {
+        "size": "margin-inline-end: xxx; /* 384px */\n",
+        "color": "",
+        "position": "margin-inline-end: xxx;\n"
+    },
+    "mt": {
+        "size": "margin-top: xxx; /* 384px */\n",
+        "color": "",
+        "position": "margin-top: xxx;\n"
+    },
+    "mr": {
+        "size": "margin-right: xxx; /* 384px */\n",
+        "color": "",
+        "position": "margin-right: xxx;\n"
+    },
+    "mb": {
+        "size": "margin-bottom: xxx; /* 384px */\n",
+        "color": "",
+        "position": "margin-bottom: xxx;\n"
+    },
+    "ml": {
+        "size": "margin-left: xxx; /* 384px */\n",
+        "color": "",
+        "position": "margin-left: xxx;\n"
+    },
+    "p": {
+        "size": "padding: xxx; /* 384px */\n",
+        "color": "",
+        "position": ""
+    },
+    "px": {
+        "size": "padding-left: xxx; /* 384px */\npadding-right: xxx; /* 384px */\n",
+        "color": "",
+        "position": ""
+    },
+    "py": {
+        "size": "padding-top: xxx; /* 384px */\npadding-bottom: xxx; /* 384px */\n",
+        "color": "",
+        "position": ""
+    },
+    "ps": {
+        "size": "padding-inline-start: xxx; /* 384px */\n",
+        "color": "",
+        "position": ""
+    },
+    "pe": {
+        "size": "padding-inline-end: xxx; /* 384px */\n",
+        "color": "",
+        "position": ""
+    },
+    "pt": {
+        "size": "padding-top: xxx; /* 384px */\n",
+        "color": "",
+        "position": ""
+    },
+    "pr": {
+        "size": "padding-right: xxx; /* 384px */\n",
+        "color": "",
+        "position": ""
+    },
+    "pb": {
+        "size": "padding-bottom: xxx; /* 384px */\n",
+        "color": "",
+        "position": ""
+    },
+    "pl": {
+        "size": "padding-left: xxx; /* 384px */\n",
+        "color": "",
+        "position": ""
+    }
+}
