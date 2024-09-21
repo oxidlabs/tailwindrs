@@ -1,0 +1,22 @@
+{
+    "bg": {
+        "size": "",
+        "color": "background-color: xxx;\n",
+        "position": "background-position: xxx;\n"
+    },
+    "from": {
+        "size": "--tw-gradient-from-position: xxx;\n",
+        "color": "--tw-gradient-from: xxx;\n--tw-gradient-to: yyy var(--tw-gradient-to-position);\n--tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);\n",
+        "position": ""
+    },
+    "via": {
+        "size": "--tw-gradient-via-position: xxx;\n",
+        "color": "--tw-gradient-to: yyy;\n--tw-gradient-stops: var(--tw-gradient-from), xxx var(--tw-gradient-via-position), var(--tw-gradient-to);\n",
+        "position": ""
+    },
+    "to": {
+        "size": "--tw-gradient-to-position: xxx;\n",
+        "color": "--tw-gradient-to: xxx;\n",
+        "position": "--tw-gradient-to: xxx;\n"
+    }
+}

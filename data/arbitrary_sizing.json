@@ -1,0 +1,37 @@
+{
+    "size": {
+        "size": "width: xxx;\nheight: xxx;\n",
+        "color": "",
+        "position": ""
+    },
+    "min-h": {
+        "size": "min-height: xxx; /* 384px */\n",
+        "color": "",
+        "position": ""
+    },
+    "max-h": {
+        "size": "max-height: xxx; /* 384px */\n",
+        "color": "",
+        "position": ""
+    },
+    "w": {
+        "size": "width: xxx;\n",
+        "color": "",
+        "position": "width: xxx;\n"
+    },
+    "max-w": {
+        "size": "max-width: xxx; /* 384px */\n",
+        "color": "",
+        "position": ""
+    },
+    "min-w": {
+        "size": "min-width: xxx; /* 384px */\n",
+        "color": "",
+        "position": ""
+    },
+    "h": {
+        "size": "height: xxx;\n",
+        "color": "",
+        "position": "height: xxx;\n"
+    }
+}
