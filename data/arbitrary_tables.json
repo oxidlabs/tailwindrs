@@ -1,0 +1,17 @@
+{
+    "border-spacing": {
+        "size": "border-spacing: xxx xxx;\n",
+        "color": "",
+        "position": ""
+    },
+    "border-spacing-x": {
+        "size": "border-spacing: xxx var(--tw-border-spacing-y);\n",
+        "color": "",
+        "position": ""
+    },
+    "border-spacing-y": {
+        "size": "border-spacing: var(--tw-border-spacing-x) xxx;\n",
+        "color": "",
+        "position": ""
+    }
+}

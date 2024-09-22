@@ -10,7 +10,7 @@ base_url = "https://tailwindcss.com"
 response = requests.get('https://tailwindcss.com/docs/aspect-ratio')
 
 soup = BeautifulSoup(response.text, 'html.parser')
-tags_ = soup.find('h5', string='Filters').parent.find('ul').find_all('a')
+tags_ = soup.find('h5', string='Tables').parent.find('ul').find_all('a')
 
 classes = {}
 arbitrary_classes = {}
@@ -70,11 +70,11 @@ for thread in threads:
 # print formatted classes 
 # print(json.dumps(classes, indent=4))
 # write to a file
-with open('data/filters.json', 'w') as f:
+with open('data/tables.json', 'w') as f:
     json.dump(classes, f, indent=4)
 
 # print formatted arbitrary classes
 # print(json.dumps(arbitrary_classes, indent=4))
 # write to a file
-with open('data/arbitrary_filters.json', 'w') as f:
+with open('data/arbitrary_tables.json', 'w') as f:
     json.dump(arbitrary_classes, f, indent=4)
