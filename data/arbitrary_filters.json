@@ -1,0 +1,92 @@
+{
+    "drop-shadow": {
+        "size": "",
+        "color": "filter: drop-shadow(xxx);\n",
+        "position": ""
+    },
+    "brightness": {
+        "size": "",
+        "color": "",
+        "position": "filter: brightness(xxx);\n"
+    },
+    "invert": {
+        "size": "filter: invert(xxx);\n",
+        "color": "",
+        "position": "filter: invert(xxx);\n"
+    },
+    "backdrop-blur": {
+        "size": "backdrop-filter: blur(xxx);\n",
+        "color": "",
+        "position": "backdrop-filter: blur(xxx);\n"
+    },
+    "backdrop-contrast": {
+        "size": "",
+        "color": "",
+        "position": "backdrop-filter: contrast(xxx);\n"
+    },
+    "backdrop-brightness": {
+        "size": "",
+        "color": "",
+        "position": "backdrop-filter: brightness(xxx);\n"
+    },
+    "blur": {
+        "size": "filter: blur(xxx);\n",
+        "color": "",
+        "position": ""
+    },
+    "contrast": {
+        "size": "",
+        "color": "",
+        "position": "filter: contrast(xxx);\n"
+    },
+    "backdrop-saturate": {
+        "size": "",
+        "color": "",
+        "position": "backdrop-filter: saturate(xxx);\n"
+    },
+    "saturate": {
+        "size": "",
+        "color": "",
+        "position": "filter: saturate(xxx);\n"
+    },
+    "backdrop-grayscale": {
+        "size": "",
+        "color": "",
+        "position": "backdrop-filter: grayscale(xxx);\n"
+    },
+    "backdrop-sepia": {
+        "size": "",
+        "color": "",
+        "position": "backdrop-filter: sepia(xxx);\n"
+    },
+    "sepia": {
+        "size": "filter: sepia(xxx);\n",
+        "color": "",
+        "position": "filter: sepia(xxx);\n"
+    },
+    "backdrop-opacity": {
+        "size": "",
+        "color": "",
+        "position": "backdrop-filter: opacity(xxx);\n"
+    },
+    "hue-rotate": {
+        "size": "",
+        "color": "",
+        "position": "filter: hue-rotate(xxx);\n"
+    },
+    "backdrop-invert": {
+        "size": "",
+        "color": "",
+        "position": "backdrop-filter: invert(xxx);\n"
+    },
+    "backdrop-hue-rotate": {
+        "size": "",
+        "color": "",
+        "position": "backdrop-filter: hue-rotate(xxx);\n"
+    },
+    "grayscale": {
+        "size": "filter: grayscale(xxx);\n",
+        "color": "",
+        "position": "filter: grayscale(xxx);\n"
+    }
+}

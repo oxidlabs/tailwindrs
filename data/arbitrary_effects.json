@@ -1,0 +1,12 @@
+{
+    "shadow": {
+        "size": "box-shadow: xxx;\n",
+        "color": "--tw-shadow-color: xxx;\n",
+        "position": ""
+    },
+    "opacity": {
+        "size": "",
+        "color": "",
+        "position": "opacity: xxx;\n"
+    }
+}
