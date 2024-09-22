@@ -1,0 +1,77 @@
+{
+    "outline": {
+        "size": "outline-width: xxx;\n",
+        "color": "outline-color: xxx;\n",
+        "position": ""
+    },
+    "ring": {
+        "size": "box-shadow: var(--tw-ring-inset) 0 0 0 calc(xxx + var(--tw-ring-offset-width)) var(--tw-ring-color);",
+        "color": "--tw-ring-color: xxx;\n",
+        "position": ""
+    },
+    "border": {
+        "size": "border-left-width: xxx;\n",
+        "color": "border-left-color: xxx;\n",
+        "position": ""
+    },
+    "border-x": {
+        "size": "border-left-width: xxx;\nborder-right-width: xxx;\n",
+        "color": "",
+        "position": ""
+    },
+    "border-y": {
+        "size": "border-top-width: xxx;\nborder-bottom-width: xxx;\n",
+        "color": "",
+        "position": ""
+    },
+    "border-s": {
+        "size": "border-inline-start-width: xxx;\n",
+        "color": "",
+        "position": ""
+    },
+    "border-e": {
+        "size": "border-inline-end-width: xxx;\n",
+        "color": "",
+        "position": ""
+    },
+    "border-t": {
+        "size": "border-top-width: xxx;\n",
+        "color": "",
+        "position": ""
+    },
+    "border-r": {
+        "size": "border-right-width: xxx;\n",
+        "color": "",
+        "position": ""
+    },
+    "border-b": {
+        "size": "border-bottom-width: xxx;\n",
+        "color": "",
+        "position": ""
+    },
+    "border-l": {
+        "size": "border-left-width: xxx;\n",
+        "color": "",
+        "position": ""
+    },
+    "rounded": {
+        "size": "border-bottom-left-radius: xxx;\n",
+        "color": "",
+        "position": " xxx*"
+    },
+    "divide": {
+        "size": "border-top-width: xxx;\nborder-bottom-width: 0px;\n",
+        "color": "border-color: xxx;\n",
+        "position": "--tw-divide-x-reverse: xxx;\n"
+    },
+    "outline-offset": {
+        "size": "outline-offset: xxx;\n",
+        "color": "",
+        "position": ""
+    },
+    "ring-offset": {
+        "size": "--tw-ring-offset-width: xxx;\nbox-shadow: 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color), var(--tw-ring-shadow);\n",
+        "color": "",
+        "position": ""
+    }
+}
